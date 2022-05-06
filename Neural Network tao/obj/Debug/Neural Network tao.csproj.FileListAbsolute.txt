@@ -1,0 +1,13 @@
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\bin\Debug\Neural Network tao.exe.config
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\bin\Debug\Neural Network tao.exe
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\bin\Debug\Neural Network tao.pdb
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural_Network_tao.Form1.resources
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural_Network_tao.Properties.Resources.resources
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.csproj.GenerateResource.cache
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.csproj.CopyComplete
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.exe
+C:\Users\NITRO 5\source\repos\Neural Network tao\Neural Network tao\obj\Debug\Neural Network tao.pdb

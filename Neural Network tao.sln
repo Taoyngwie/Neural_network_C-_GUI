@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neural Network tao", "Neural Network tao\Neural Network tao.csproj", "{A353C602-BC4A-4E81-BD31-DDE82214E43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A353C602-BC4A-4E81-BD31-DDE82214E43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A353C602-BC4A-4E81-BD31-DDE82214E43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A353C602-BC4A-4E81-BD31-DDE82214E43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A353C602-BC4A-4E81-BD31-DDE82214E43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3AC4F9E-E653-40A5-9FCB-83A8CD87EFF0}
+	EndGlobalSection
+EndGlobal
